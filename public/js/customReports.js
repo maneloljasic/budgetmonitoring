@@ -1,0 +1,1 @@
+// Custom JavaScript functionalities for the reports page have been removed as they were not utilized.
